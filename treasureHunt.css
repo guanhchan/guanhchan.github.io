@@ -21,15 +21,21 @@ treasureHuntCss
   }
   
   body {
-    background-image: url(https://images.unsplash.com/photo-1547234935-80c7145ec969?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1748&q=80);
-    background-repeat: no-repeat;
+    /* background-image: url(https://images.unsplash.com/photo-1547234935-80c7145ec969?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1748&q=80); */
+    /* background-repeat: no-repeat;
     background-color: antiquewhite;
     background-attachment: fixed;
     background-position: center;
-    background-size: cover;
+    background-size: cover; */
   }
   
   td {
     width: 160px;
     height: 160px;
   }
+
+
+  .banner {
+    /* The image used */
+    background-image: url(https://s3.us-west-1.amazonaws.com/savoriteapp.us/merchants/covers/4IFW2n9xBfc8oFXzbwsnqcha7APdoDMXYuaBbrri.png)
+    }
